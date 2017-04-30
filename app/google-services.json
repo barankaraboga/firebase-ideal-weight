@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "700246285870",
+    "firebase_url": "https://deneme-b168f.firebaseio.com",
+    "project_id": "deneme-b168f",
+    "storage_bucket": "deneme-b168f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700246285870:android:7f369bc6987c617e",
+        "android_client_info": {
+          "package_name": "com.rankend.barankaraboa.firebaseprojem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700246285870-1n07jqp8lrdcfktms2fbgm8bg75vndk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH8l5g_ZQDUOi4jDBmk4L-Ws23Imz2kI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700246285870:android:c87f55ed740a6fc3",
+        "android_client_info": {
+          "package_name": "com.rankend.barankaraboa.vkeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700246285870-1n07jqp8lrdcfktms2fbgm8bg75vndk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAH8l5g_ZQDUOi4jDBmk4L-Ws23Imz2kI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
